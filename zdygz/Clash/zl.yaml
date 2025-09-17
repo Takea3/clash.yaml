@@ -1,0 +1,12 @@
+payload:
+  - DOMAIN-SUFFIX,mb3admin.com
+  - DOMAIN-SUFFIX,whatismyipaddress.com
+  - DOMAIN,api.ipify.org
+  - DOMAIN,dcg.microsoft.com
+  - DOMAIN-SUFFIX,icook.tw
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,plex
+  - DOMAIN-SUFFIX,oicp.vip
+  - DOMAIN-SUFFIX,dynv6.net
+  - DOMAIN-SUFFIX,f3322.net

@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-KEYWORD,bing
+#  - DOMAIN-SUFFIX,adrise.tv
+  - IP-CIDR,13.107.21.200/32,no-resolve
+  - IP-CIDR,204.79.197.200/32,no-resolve

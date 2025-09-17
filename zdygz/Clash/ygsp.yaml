@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-KEYWORD,tubi
+  - DOMAIN-SUFFIX,adrise.tv
+  - IP-CIDR,18.65.222.0/24,no-resolve
+  #- DOMAIN-SUFFIX,googleapis.com
+  #- DOMAIN-SUFFIX,openai.com
